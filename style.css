@@ -83,6 +83,7 @@ header ul li {
 footer {
   margin-top: 100px;
   padding: 16px;
+  text-align: center;
   color: #dbdbdb; /* white:#dbdbdb; *//* lightdark: #a9a9a9 */
   background-color: #202b38; /* white: #f9f9f9; #f6f6ef; #eee; dark: #202b38 */
 }
